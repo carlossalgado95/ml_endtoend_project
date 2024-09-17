@@ -1,3 +1,7 @@
+'''O logging é um módulo embutido no Python que fornece uma maneira flexível e poderosa de gerar mensagens 
+de log de aplicativos. Com o logging, você pode rastrear eventos que acontecem durante a execução do código, 
+como erros, avisos ou informações úteis para depuração.'''
+
 import logging
 import os
 from datetime import datetime
@@ -15,6 +19,3 @@ logging.basicConfig(
 
 ) 
 
-# if __name__=='__main__':
-#     logging.info("logging has started")
-        
