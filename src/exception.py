@@ -2,6 +2,8 @@
 mais detalhadas, úteis especialmente para depuração, pois elas incluem o nome do arquivo e a linha do código 
 onde o erro ocorreu.'''
 
+
+
 #O módulo sys é utilizado para obter informações sobre exceções (como onde e por que elas ocorreram).
 
 import sys
